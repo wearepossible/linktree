@@ -22,7 +22,7 @@ img {
 .profile-name {
     text-align: center;
     padding: 20px;
-    color: #ffffff
+    color: #bf0978
 }
 
 .links {
@@ -52,6 +52,6 @@ a {
 }
 
 a:hover {
-    color: #000000;
-    background: #fff;
+    color: #fff;
+    background: #bf0978;
 }
