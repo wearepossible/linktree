@@ -29,7 +29,7 @@ img {
     text-align: center;
     margin-top: 20px;
     padding: 20px;
-    border: 10px solid white;
+    border: 10px solid #bf0978;
     border-width: 2px;
     width: 290px;
     display: block;
@@ -40,7 +40,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #ffffff;
+    color: #bf0978;
     transition: color 1s;
 }
 
