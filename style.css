@@ -40,7 +40,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #bf0978;
+    color: #fff;
     transition: color 1s;
 }
 
@@ -52,6 +52,6 @@ a {
 }
 
 a:hover {
-    color: #fff;
-    background: #bf0978;
+    color: #bf0978;
+    background: #ffffff;
 }
