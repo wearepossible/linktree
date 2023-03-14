@@ -41,8 +41,8 @@ img {
 
 a {
     text-decoration: none;
-    color: #fff
-    transition: color 1s;
+    color: #fff;
+    transition:color 1s
 }
 
 .bottom-text {
